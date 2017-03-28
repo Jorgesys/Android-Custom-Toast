@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CustomToast</string>
+
+    <string-array name="positions">
+        <item name="top">TOP</item>
+        <item name="center">CENTER</item>
+        <item name="bottom">BOTTOM</item>
+    </string-array>
+
+    <string-array name="durations">
+        <item name="short">SHORT</item>
+        <item name="long">LONG</item>
+    </string-array>
+</resources>
